@@ -5,3 +5,8 @@ https://stepik.org/lesson/237240/step/10?unit=209628
 На название firefox внимание не обращать точно так-же, как я не обратил внимание на тз
 и не проверил то, что он не является обязательным.
 Что ж, бывает.
+<br>
+Запускается следующей командой:
+```cmd
+ pytest --browser_name=firefox --language=ru tests\test_finish_block_3.py
+```
